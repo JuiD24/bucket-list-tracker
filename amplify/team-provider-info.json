@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "bucketlisttracker3686e2af": {}
+      },
+      "api": {
+        "bucketlisttracker": {}
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
